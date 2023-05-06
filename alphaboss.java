@@ -1,12 +1,10 @@
-import java.util.*;
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class alphaboss extends methodTest {
     public static void main(String[] args) {
-        C map= new C();
-       map.tar();
+        Person obj= new Person(9,"Ade");
+        System.out.println(obj.age());
+        System.out.println(obj.name());
+//        C map= new C();
+//       map.tar();
 //        int [][] s=new int[5][7];
 //        s[0][0] = 4;
 //        s[0][1] =7;
