@@ -1,3 +1,8 @@
+import java.util.*;
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class alphaboss extends methodTest {
     public static void main(String[] args) {
         //instantiating a record class
